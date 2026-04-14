@@ -22,7 +22,7 @@ export default function Header() {
           <nav className="header-nav">
             <Link href="/" className="logo">
               <Leaf size={28} />
-              <span>Aurelia Oliva</span>
+              <span>Karya Zeytinyağları</span>
             </Link>
 
             <ul className="nav-links">

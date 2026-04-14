@@ -9,7 +9,7 @@ export default function Footer() {
           <div>
             <div className="logo" style={{ color: 'var(--text-light)', marginBottom: '1rem' }}>
               <Leaf size={28} />
-              <span>Aurelia Oliva</span>
+              <span>Karya Zeytinyağları</span>
             </div>
             <p style={{ opacity: 0.8, marginBottom: '1.5rem' }}>
               Asırlık zeytin ağaçlarından sofralarınıza uzanan, soğuk sıkım ve %100 doğal sızma zeytinyağı mucizesi.
@@ -34,15 +34,15 @@ export default function Footer() {
           <div>
             <h4 className="footer-heading">İletişim</h4>
             <ul>
-              <li style={{ marginBottom: '0.8rem', opacity: 0.8 }}>Kazdağları Etekleri, Edremit / Balıkesir</li>
-              <li style={{ marginBottom: '0.8rem', opacity: 0.8 }}>info@aureliaoliva.com</li>
+              <li style={{ marginBottom: '0.8rem', opacity: 0.8 }}>Milas / Muğla</li>
+              <li style={{ marginBottom: '0.8rem', opacity: 0.8 }}>info@karyazeytinyaglari.com</li>
               <li style={{ marginBottom: '0.8rem', opacity: 0.8 }}>+90 (555) 123 45 67</li>
             </ul>
           </div>
         </div>
         
         <div className="footer-bottom">
-          <p>&copy; {new Date().getFullYear()} Aurelia Oliva. Tüm hakları saklıdır.</p>
+          <p>&copy; {new Date().getFullYear()} Karya Zeytinyağları. Tüm hakları saklıdır.</p>
         </div>
       </div>
     </footer>

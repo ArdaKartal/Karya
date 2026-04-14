@@ -19,7 +19,7 @@ export default function Home() {
         <div className="hero-content">
           <h1 className="hero-title">Doğanın Altın Sırrı<br />Sofralarınızda.</h1>
           <p className="hero-subtitle">
-            Kazdağları'nın taze esintisini taşıyan, nesillerdir süregele, tamamen doğal
+            Karya'nın bereketli topraklarından, nesillerdir süregelen, tamamen doğal
             ve birinci kalite soğuk sıkım zeytinyağlarını keşfedin.
           </p>
           <Link href="/products">
@@ -67,22 +67,22 @@ export default function Home() {
             <div style={{ background: 'rgba(255,255,255,0.1)', width: '80px', height: '80px', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', margin: '0 auto 1.5rem' }}>
               <span style={{ fontSize: '2rem' }}>🌿</span>
             </div>
-            <h3 style={{ marginBottom: '1rem' }}>%100 Doğal</h3>
-            <p style={{ opacity: 0.8 }}>Hiçbir katkı maddesi veya koruyucu içermeyen saf doğallık.</p>
+            <h3 style={{ marginBottom: '1rem' }}>Kendi Bahçemizden</h3>
+            <p style={{ opacity: 0.8 }}>Dışarıdan zeytin almadan, sadece kendi ağaçlarımızın mahsülü %100 doğal Memecik zeytinleri.</p>
           </div>
           <div style={{ maxWidth: '300px' }}>
             <div style={{ background: 'rgba(255,255,255,0.1)', width: '80px', height: '80px', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', margin: '0 auto 1.5rem' }}>
               <span style={{ fontSize: '2rem', margin: '1rem' }}>❄️</span>
             </div>
-            <h3 style={{ marginBottom: '1rem' }}>Soğuk Sıkım</h3>
-            <p style={{ opacity: 0.8 }}>24°C altında sıkılarak tüm vitamin ve antioksidanları korunur.</p>
+            <h3 style={{ marginBottom: '1rem' }}>Kendi Tesisimizde</h3>
+            <p style={{ opacity: 0.8 }}>Zeytinlerimizi bekletmeden, tesisimizde 24°C altında soğuk sıkarak tüm değerleri koruyoruz.</p>
           </div>
           <div style={{ maxWidth: '300px' }}>
             <div style={{ background: 'rgba(255,255,255,0.1)', width: '80px', height: '80px', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', margin: '0 auto 1.5rem' }}>
               <span style={{ fontSize: '2rem' }}>🥇</span>
             </div>
-            <h3 style={{ marginBottom: '1rem' }}>Ödüllü Lezzet</h3>
-            <p style={{ opacity: 0.8 }}>Uluslararası yarışmalardan altın madalyalı eşsiz tat profili.</p>
+            <h3 style={{ marginBottom: '1rem' }}>Üstün Memecik Kalitesi</h3>
+            <p style={{ opacity: 0.8 }}>Yüksek polifenol değerli Memecik türünün benzersiz aroması ve meyvemsi taze lezzeti.</p>
           </div>
         </div>
       </section>

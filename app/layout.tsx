@@ -5,8 +5,8 @@ import Footer from '../components/Footer';
 import { CartProvider } from '../context/CartContext';
 
 export const metadata: Metadata = {
-  title: 'Aurelia Oliva | Premium Soğuk Sıkım Zeytinyağları',
-  description: 'Kazdağları eteklerinden sofralarınıza uzanan, tamamen doğal, premium kalite soğuk sıkım ve naturel sızma zeytinyağları.',
+  title: 'Karya Zeytinyağları | Premium Soğuk Sıkım Zeytinyağları',
+  description: 'Ege\'nin kalbi Milas\'tan sofralarınıza uzanan, tamamen doğal, premium kalite soğuk sıkım ve naturel sızma zeytinyağları.',
 };
 
 export default function RootLayout({
